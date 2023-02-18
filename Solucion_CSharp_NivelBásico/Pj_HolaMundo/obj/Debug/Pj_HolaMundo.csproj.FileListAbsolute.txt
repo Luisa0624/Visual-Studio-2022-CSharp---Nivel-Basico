@@ -1,0 +1,7 @@
+C:\Users\luisa.gil\Documents\DOC. LUISA\CURSOS\Visual Studio 2022 C# - Nivel Básico\Solucion_CSharp_NivelBásico\Pj_HolaMundo\bin\Debug\Pj_HolaMundo.exe.config
+C:\Users\luisa.gil\Documents\DOC. LUISA\CURSOS\Visual Studio 2022 C# - Nivel Básico\Solucion_CSharp_NivelBásico\Pj_HolaMundo\bin\Debug\Pj_HolaMundo.exe
+C:\Users\luisa.gil\Documents\DOC. LUISA\CURSOS\Visual Studio 2022 C# - Nivel Básico\Solucion_CSharp_NivelBásico\Pj_HolaMundo\bin\Debug\Pj_HolaMundo.pdb
+C:\Users\luisa.gil\Documents\DOC. LUISA\CURSOS\Visual Studio 2022 C# - Nivel Básico\Solucion_CSharp_NivelBásico\Pj_HolaMundo\obj\Debug\Pj_HolaMundo.csproj.AssemblyReference.cache
+C:\Users\luisa.gil\Documents\DOC. LUISA\CURSOS\Visual Studio 2022 C# - Nivel Básico\Solucion_CSharp_NivelBásico\Pj_HolaMundo\obj\Debug\Pj_HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\luisa.gil\Documents\DOC. LUISA\CURSOS\Visual Studio 2022 C# - Nivel Básico\Solucion_CSharp_NivelBásico\Pj_HolaMundo\obj\Debug\Pj_HolaMundo.exe
+C:\Users\luisa.gil\Documents\DOC. LUISA\CURSOS\Visual Studio 2022 C# - Nivel Básico\Solucion_CSharp_NivelBásico\Pj_HolaMundo\obj\Debug\Pj_HolaMundo.pdb
